@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lab Task 1</title>
+</head>
+<body style = "background-color: maroon;">
+
+<p style = "color: White; font-size: 30px"> 
+<b><u>
+
+WEB LAB
+
+</p></b></u>
+
+<h1 style = "color: BLack;"><i>AI 5-1</h1></i>
+
+<p style = "background-color: white; color: green;" ><u>Name: <b><i>Abdul Hadi</u> </b></i><br> City: <b><i>Islamabad </b></i><br>
+Universty: <b><i>Riphah International university </b></i><br> Cgpa: <b><i>2.71
+</p>
+
+<img src="C:/Users/HP/Downloads/Wallpaper.jpg"
+
+</body>
+</html>
