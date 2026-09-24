@@ -1,0 +1,44 @@
+<html>
+
+<head>
+<title>Riphah Library Video</title>
+</head>
+
+<body bgcolor="#CFB298">
+
+<h1><font color="#1322D6"><center>Riphah Library Video<center></font></h1>
+
+<hr width="100%" color="Black" size="4">
+
+<p><h2><font color="#1322D6">Short Library Tour:</font></h2></p>
+
+<p>
+Watch this short video to learn more about a library
+environment and its facilities.
+</p>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/2wNNesWBSUk">
+</iframe>
+
+<br><br>
+
+<p>
+<b>Click the link Above to watch the video on YouTube:</b>
+</p>
+
+<a href="D:\University\5th Semester\Web Development LAB\Lab 02\Task\Lab Task Part 1.html"
+style="color:red;">
+Go back to Introduction
+</a>
+
+<br><br>
+
+<a href="D:\University\5th Semester\Web Development LAB\Lab 02\Task\Lab Task Part 2.html"
+style="color:red;">
+Go To Riphah Library List
+</a>
+
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+<html>
+
+<head>
+<title>Riphah Library</title>
+</head>
+
+<body bgcolor="#98E0F0">
+
+<h1><font color="#1322D6"><center>Riphah International University Library</center></font></h1>
+
+<hr width="100%" color="Black" size="4">
+
+<p><h2><font color="#1322D6">Library Introduction:</font></h2></p>
+
+<p>
+The <b>Riphah Library</b> provides students with a quiet
+environment for <i>study, research, and learning.</i>
+It offers books, digital resources, and comfortable study spaces.
+</p>
+
+<p><h2><font color="#1322D6">Library Facilities:</font></h2></p>
+
+<ul>
+<li>Books and E-books</li>
+<li>Study Rooms</li>
+<li>Computer Facilities</li>
+<li>Internet Access</li>
+<li>Research Resources</li>
+</ul>
+
+<p><h2><font color="#1322D6">Library Rules:</font></h2></p>
+
+<ol>
+<li>Maintain silence.</li>
+<li>Keep your phone on silent.</li>
+<li>Handle books carefully.</li>
+<li>Keep the library clean.</li>
+</ol>
+
+<p><h2><font color="#1322D6">Library Images:</font></h2></p>
+
+<img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+width="400" height="250">
+
+<br><br>
+
+<img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
+width="400" height="250">
+
+<br><br>
+
+<a href="D:\University\5th Semester\Web Development LAB\Lab 02\Task\Lab Task Part 1.html"
+style="color:red;">
+Go back to Introduction
+</a>
+
+<br><br>
+
+<a href="D:\University\5th Semester\Web Development LAB\Lab 02\Task\Lab Task Part 3.html"
+style="color:red;">
+Go To Riphah Library Video
+</a>
+
+</body>
+</html>
