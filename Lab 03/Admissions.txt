@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>Admissions</title>
+</head>
+<body bgcolor="#EEEEE">
+
+    <h1><font color="#1322D6">Riphah International University Islamabad</font></h1>
+
+    <hr width="100%" color="#030303" size="4">
+
+    <center>
+        <h2><b><pre>
+<a href="home.html">Home</a>   <a href="Departments.html">Department</a>   <a href="admissions.html">Admissions</a>   <a href="Academics.html">Admissions</a>   Exams
+        </pre></b></h2>
+    </center>
+
+    <hr width="100%" color="#736663" size="4">
+    <br>
+
+    <h2><font color="#1322D6">Admissions</font></h2>
+
+    <p>
+        Welcome to the Admissions page of Riphah International University Islamabad.
+    </p>
+
+    <h3>Admission Information</h3>
+
+    <table border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <th>Information</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>Admission Requirement</td>
+            <td>Intermediate or equivalent qualification</td>
+        </tr>
+        <tr>
+            <td>Programs Offered</td>
+            <td>Computer Science and Electrical Engineering</td>
+        </tr>
+        <tr>
+            <td>Application</td>
+            <td>Students must submit an admission application form.</td>
+        </tr>
+        <tr>
+            <td>Selection</td>
+            <td>Admission is based on eligibility and university requirements.</td>
+        </tr>
+
+        <tfoot>
+            <tr>
+                <td colspan="2">
+                    <b>Admissions Department - Your journey towards a successful career starts here.</b>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>

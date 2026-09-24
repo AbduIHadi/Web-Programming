@@ -1,0 +1,121 @@
+<html>
+<head>
+    <title>Academics</title>
+</head>
+<body bgcolor="FFB7B5">
+
+    <table border="1" width="100%" cellpadding="10" cellspacing="0">
+
+        <tr>
+            <th colspan="4">
+                <h1>
+                    <font color="#1322D6">
+                        Riphah International University Islamabad
+                    </font>
+                </h1>
+            </th>
+        </tr>
+
+        <tr>
+            <td colspan="4" align="center">
+                <b>
+                    <a href="home.html">Home</a>
+                    &nbsp;&nbsp;&nbsp;
+                    <a href="Departments.html">Department</a>
+                    &nbsp;&nbsp;&nbsp;
+                    <a href="admissions.html">Admissions</a>
+                    &nbsp;&nbsp;&nbsp;
+                    <a href="Academics.html">Academics</a>
+                    &nbsp;&nbsp;&nbsp;
+                    Exams
+                </b>
+            </td>
+        </tr>
+
+        <tr>
+            <th colspan="4">
+                <h2>
+                    <font color="#1322D6">Academics</font>
+                </h2>
+            </th>
+        </tr>
+
+        <tr>
+            <td width="20%" valign="top">
+                <h3>Academic Programs</h3>
+
+                <ul>
+                    <li>Undergraduate Programs</li>
+                    <li>Graduate Programs</li>
+                    <li>Research Programs</li>
+                    <li>Professional Programs</li>
+                </ul>
+            </td>
+
+            <td colspan="2" width="60%" valign="top">
+                <h3>Academic Information</h3>
+
+                <p>
+                    Riphah International University provides quality education
+                    through a variety of undergraduate and postgraduate programs.
+                </p>
+
+                <p>
+                    The university focuses on academic excellence, research,
+                    professional development, and practical learning.
+                </p>
+
+                <h3>Academic Departments</h3>
+
+                <table border="1" cellpadding="8" cellspacing="0" width="100%">
+                    <tr>
+                        <th>Program</th>
+                        <th>Degree</th>
+                        <th>Duration</th>
+                    </tr>
+                    <tr>
+                        <td>Computer Science</td>
+                        <td>BS</td>
+                        <td>4 Years</td>
+                    </tr>
+                    <tr>
+                        <td>Electrical Engineering</td>
+                        <td>BS</td>
+                        <td>4 Years</td>
+                    </tr>
+                    <tr>
+                        <td>Computer Science</td>
+                        <td>MS</td>
+                        <td>2 Years</td>
+                    </tr>
+                </table>
+            </td>
+
+            <!-- Right Content -->
+            <td width="20%" valign="top">
+                <h3>Important</h3>
+
+                <p>
+                    Students should regularly check their academic schedules,
+                    examination dates, and university announcements.
+                </p>
+
+                <p>
+                    Academic performance is an important part of university life.
+                </p>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="4" align="center">
+                <b>
+                    Riphah International University Islamabad -
+                    Excellence in Education and Research
+                </b>
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
